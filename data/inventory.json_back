@@ -1,0 +1,95 @@
+{
+    "name": "Default Inventory",
+    "items": [
+        {
+            "price": 25,
+            "name": "Pembrooke Blouse",
+            "attributes": [
+                "Clothing",
+                "Women's",
+                "Blouse"
+            ]
+        },
+        {
+            "price": 50,
+            "name": "Levi Jeans",
+            "attributes": [
+                "Clothing",
+                "Women's",
+                "Jeans"
+            ]
+        },
+        {
+            "price": 40,
+            "name": "Checkered Shirt",
+            "attributes": [
+                "Clothing",
+                "Men's",
+                "Shirt"
+            ]
+        },
+        {
+            "price": 79,
+            "name": "Rustic Chair",
+            "attributes": [
+                "Home Goods",
+                "Chair",
+                "Wood"
+            ]
+        },
+        {
+            "price": 80,
+            "name": "Modern Coffee Table",
+            "attributes": [
+                "Home Goods",
+                "Table",
+                "Steel"
+            ]
+        },
+        {
+            "price": 200,
+            "name": "Fit For a Queen Bed",
+            "attributes": [
+                "Home Goods",
+                "Bed",
+                "Queen"
+            ]
+        },
+        {
+            "price": 20,
+            "name": "Cool Graphic Tee",
+            "attributes": [
+                "Clothing",
+                "Men's",
+                "T-Shirt"
+            ]
+        },
+        {
+            "price": 85,
+            "name": "LaZBoy Recliner",
+            "attributes": [
+                "Home Goods",
+                "Chair",
+                "Upholstered"
+            ]
+        },
+        {
+            "price": 50,
+            "name": "Night-Night Kid's Bed",
+            "attributes": [
+                "Home Goods",
+                "Bed",
+                "Twin"
+            ]
+        },
+        {
+            "price": 60,
+            "name": "Champion Hoodie",
+            "attributes": [
+                "Clothing",
+                "Women's",
+                "Hoodie"
+            ]
+        }
+    ]
+}

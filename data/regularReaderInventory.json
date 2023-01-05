@@ -1,0 +1,23 @@
+{
+  "name": "Default Inventory",
+  "items": [
+    {
+      "price": 25,
+      "name": "Pembrooke Blouse",
+      "attributes": [
+        "Clothing",
+        "Women's",
+        "Blouse"
+      ]
+    },
+    {
+      "price": 50,
+      "name": "Levi Jeans",
+      "attributes": [
+        "Clothing",
+        "Women's",
+        "Jeans"
+      ]
+    }
+  ]
+}
