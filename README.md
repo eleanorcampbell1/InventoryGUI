@@ -1,5 +1,5 @@
 # My Personal Project
-####by Eleanor Campbell
+# by Eleanor Campbell
 
 ## Department Store App
 
