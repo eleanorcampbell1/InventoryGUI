@@ -1,17 +1,18 @@
-# My Personal Project
+# Department Store App
 ### by Eleanor Campbell
 
-## Department Store App
+*An assignment from my Software Construction course.*
 
 This application is inspired by the time I spent working in a department store and the negative effect I found its lack 
 of an efficient price-checking system had on a customer's check out speed. Rather than relying on an employee searching
 the store for any item of similarity, the Department Store App seeks to facilitate price-checking through the
 use of an inventory.
 
-With this application, cashiers would be able to *easily* price-check an item using its attributes and obtain a
+With this application, cashiers would be able to easily price-check an item using its attributes and obtain a
 price within a minute. Its inventory feature will build a database of items to compare to, which employees would also 
 be able to isolate, add and delete items from. 
 
+An assignment from my Software Construction course.
 
 ## User Stories
 - As a user, I want to be able to price-check an item.
