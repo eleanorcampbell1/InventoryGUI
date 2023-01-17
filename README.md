@@ -65,4 +65,4 @@ legs has been removed from inventory.
 The one thing I would do to improve my design would be to remove the association between the PriceCheckTool and 
 Inventory class and have the PriceCheckTool rely only on the DepartmentStoreUI class. A possibility would be to
 implement a method that clones the original inventory (pre-price check) in the DepartmentStoreUI class and then call it
-from the PriceCheckTool class.# InventoryGUI
+from the PriceCheckTool class.
